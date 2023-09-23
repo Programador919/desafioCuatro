@@ -1,0 +1,12 @@
+Puerto 8080
+
+se inicializa con el comado : npm start
+
+lo trabaje con Thunder cliente
+
+ver los elemntos de api/cart con get
+ejemplo  http://localhost:8080/api/cart
+
+ver los elemntos de api/products con get
+ejemplo http://localhost:8080/api/products
+

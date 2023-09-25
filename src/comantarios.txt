@@ -10,3 +10,4 @@ ejemplo  http://localhost:8080/api/cart
 ver los elemntos de api/products con get
 ejemplo http://localhost:8080/api/products
 
+{"id":6,"title":"BMW Electrico","description":"Auto Aleman","code":"aeiou","price":2100,"status":true,"stock":1,"category":"Deportivo","thumbnails":"https://img2.freepng.es/20180630/hvs/kisspng-car-electric-vehicle-bmw-i3-bmw-i8-car-bmw-5b3848074ae4f1.6155762715304151113068.jpg","carru1":"https://img2.freepng.es/20180630/hvs/kisspng-car-electric-vehicle-bmw-i3-bmw-i8-car-bmw-5b3848074ae4f1.6155762715304151113068.jpg","carru2":"https://img2.freepng.es/20180630/hvs/kisspng-car-electric-vehicle-bmw-i3-bmw-i8-car-bmw-5b3848074ae4f1.6155762715304151113068.jpg","carru3":"https://img2.freepng.es/20180630/hvs/kisspng-car-electric-vehicle-bmw-i3-bmw-i8-car-bmw-5b3848074ae4f1.6155762715304151113068.jpg", "minimo": 1}

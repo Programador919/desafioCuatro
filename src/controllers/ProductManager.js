@@ -40,7 +40,7 @@ class ProductManager {
             typeof category !== "string" ||
             typeof numericMinimo !== "number"
         ) {
-            return "Todos los campos son requeridos y deben tener el tipo de valor correcto";
+            return "Todos los campos son requeridos ";
         }
         console.log('Datos del producto a agregar:', product);
         let productsOld = await this.readProducts();
